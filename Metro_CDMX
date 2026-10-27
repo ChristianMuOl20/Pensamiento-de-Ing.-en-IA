@@ -1,4 +1,3 @@
-cat << 'EOF' > metro_cdmx.py
 import networkx as nx
 import matplotlib.pyplot as plt
 
