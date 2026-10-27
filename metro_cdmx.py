@@ -95,4 +95,3 @@ nx.draw_networkx_labels(metro_cdmx, pos_completo, font_size=7, font_family="sans
 plt.title("Mapa de Red del Metro de la Ciudad de México (Grafo Completo)", fontsize=18, fontweight='bold')
 plt.axis('off')
 plt.show()
-EOF
